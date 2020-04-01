@@ -10,9 +10,9 @@ npm install pg express cors nodemon
 npx create-react-app client
 ```
 ## Final Look
-![alt text](https://raw.githubusercontent.com/purplesmile3/TodoList/master/img/to/todolist.PNG)
+![alt text](https://raw.githubusercontent.com/purplesmile3/TodoList/master/img/todolist.PNG)
 
-![alt text](https://raw.githubusercontent.com/purplesmile3/TodoList/master/img/to/modular.PNG)
+![alt text](https://raw.githubusercontent.com/purplesmile3/TodoList/master/img/modular.PNG)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
