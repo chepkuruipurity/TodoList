@@ -32,7 +32,7 @@ const EditTodo=({ todo })=>{
 <div className="modal" id={`id${todo.todo_id}`} onClick={()=> setDescription(todo.description)}>
   <div className="modal-dialog">
     <div className="modal-content">
-(
+
      
       <div className="modal-header">
         <h4 className="modal-title">Edit Todo</h4>
