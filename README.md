@@ -1,7 +1,8 @@
 # TodoList
 This is Todo list app created using the PERN stack.
 ## Description
- Server is the backend and client for frontend. Server folder uses postgres, express, node.js while the frontend uses react.
+ Server is the backend and client for frontend. 
+ Server folder uses postgres, express, node.js while the frontend uses react.
 
 ## Usage
 ```
